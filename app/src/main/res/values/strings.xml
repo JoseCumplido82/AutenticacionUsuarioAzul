@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AutenticacionUsuarioAzul</string>
+    <string name="img_descripcion">Autenticacion de usuario</string>
+    <string name="introduce_el_email">introduce el email</string>
+    <string name="introduce_la_contrase_a">introduce la contraseña</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="registro_de_usuario">registro de usuario</string>
+</resources>
